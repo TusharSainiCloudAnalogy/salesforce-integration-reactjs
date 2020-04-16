@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component, useState, useEffect } from 'react';
 import NavBar from './NavBar';
 import QueryForm from './QueryForm';
 import LoginPanel from './LoginPanel';
